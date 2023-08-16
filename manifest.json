@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Buscar en google",
-    "description": "Buscar programadornovato en Google",
+    "name": "Buscar en google y agregar link",
+    "description": "Buscar esto es una prueba en Google y agregar elemento a hacia Facebook",
     "version": "1",
     "icons": {
       "128": "icon_128.png"

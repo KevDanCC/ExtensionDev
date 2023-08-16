@@ -11,10 +11,6 @@ var evt = new MouseEvent('click', {
 });
 let note = document.querySelector('.FPdoLc');
 
-note.appendChild(append);
-
-
-
 //Si no se cancela el evento lo ejecutamos
 // var canceled = !document.querySelector('input[name="btnK"]').dispatchEvent(evt);
 let append= document.createElement('div');
@@ -24,3 +20,8 @@ Esto es texto extra:
 <a href="https://www.facebook.com">Clickme!</a>
 </div>
 `
+
+// Se agrega para mostrar
+note.appendChild(append);
+
+
